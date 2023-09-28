@@ -1,0 +1,46 @@
+body{
+    background-color:black;
+}
+input{
+    width: 190px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 14px;
+    background-color:rgb(81, 64, 88) ;
+    color: rgb(252, 252, 252);
+    border:1px   ;
+    padding-left: 10px;
+    
+
+}
+.input-form{
+    display: flex;
+    flex-direction: column;
+}
+.box {
+    width: 220px;
+    height: 340px;
+    padding: 10px;
+    border: 0px solid gray;
+    background-color:rgb(35, 35, 75) ;
+    border-radius: 20px 20px 20px 20px;
+    margin: 25px auto;
+    margin-top: 100px;
+    
+  }
+  .submit-btn{
+    width: 205px;
+    height: 36px;
+    border-radius: 10px 10px 10px 10px;
+    background-color:rgb(11, 176, 241);
+    color: black;
+  }
+  h1{
+    color: aliceblue;
+  }
+  h4{
+    color: aliceblue;
+  }
+  .nav-link{
+    color:aliceblue;
+  }
